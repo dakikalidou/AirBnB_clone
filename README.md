@@ -1,6 +1,3 @@
-Soutien moi sur : beve.com/createur/fred
-
-
 0x00. AirBnB clone - The console
 
 Description
